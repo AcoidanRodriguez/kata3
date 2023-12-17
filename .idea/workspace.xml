@@ -4,19 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd01038-4e45-46b8-8916-d7db74d1cc64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dfd01038-4e45-46b8-8916-d7db74d1cc64" name="Changes" comment="Interfaz HistogramDisplay acabada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,6 +47,37 @@
       <option name="presentableId" value="Default" />
       <updated>1702833528897</updated>
     </task>
+    <task id="LOCAL-00001" summary="Partimos de la kata2 y hemos modificado la interfaz Histogram">
+      <option name="closed" value="true" />
+      <created>1702834368545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702834368545</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modificamos Clases WeightHistogram y Main">
+      <option name="closed" value="true" />
+      <created>1702834493652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702834493652</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Interfaz HistogramDisplay acabada">
+      <option name="closed" value="true" />
+      <created>1702834547071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702834547071</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Partimos de la kata2 y hemos modificado la interfaz Histogram" />
+    <MESSAGE value="Modificamos Clases WeightHistogram y Main" />
+    <MESSAGE value="Interfaz HistogramDisplay acabada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaz HistogramDisplay acabada" />
   </component>
 </project>
