@@ -6,10 +6,10 @@ import java.util.Map;
 public class Main {
     public static void main(String[] args) {
         List<Person> people = TsvFilePersonLoader.with("hw_25000.tsv").load();
-        Map<String,Integer> histogram = new WeightHistogram(people).calculate();
-        for (String s : histogram.keySet()) {
-            System.out.println(s + " --> " + histogram.get(s));
-        }
+        Histogram weightHistogram = new WeightHistogram(people);
+        MainFrame mainFrame = new MainFrame();
+        mainFrame.histogramDisplay().show(weightHistogram);
+        mainFrame.setVisible(true);
     }
 }
 
