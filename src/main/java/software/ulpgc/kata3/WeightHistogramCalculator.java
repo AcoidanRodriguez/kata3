@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class WeightHistogramCalculator implements Histogram {
+public class WeightHistogramCalculator implements HistogramCalculator{
     private static final int BIN_SIZE = 20;
     private final List<Person> people;
 
