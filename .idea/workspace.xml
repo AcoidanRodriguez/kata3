@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfd01038-4e45-46b8-8916-d7db74d1cc64" name="Changes" comment="Clase MainFrame acabada">
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/Histogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/HistogramDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/JFreeChartHistogramDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/MainFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/PersonLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/TsvFilePersonLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata3/WeightHistogram.java" beforeDir="false" />
-    </list>
+    <list default="true" id="dfd01038-4e45-46b8-8916-d7db74d1cc64" name="Changes" comment="Clase WeightHistogram acabada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -97,7 +87,39 @@
       <option name="project" value="LOCAL" />
       <updated>1702834898537</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Partimos kata2 y modificamos Interfaz Histogram.java">
+      <option name="closed" value="true" />
+      <created>1702835072454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702835072454</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Partimos de la kata2">
+      <option name="closed" value="true" />
+      <created>1702835165298</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702835165299</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Interfaz Histogram acabada">
+      <option name="closed" value="true" />
+      <created>1702835216312</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702835216312</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Clase WeightHistogram acabada">
+      <option name="closed" value="true" />
+      <created>1702835318776</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702835318776</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +128,10 @@
     <MESSAGE value="Interfaz HistogramDisplay acabada" />
     <MESSAGE value="Clase JFreechart acabada" />
     <MESSAGE value="Clase MainFrame acabada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase MainFrame acabada" />
+    <MESSAGE value="Partimos kata2 y modificamos Interfaz Histogram.java" />
+    <MESSAGE value="Partimos de la kata2" />
+    <MESSAGE value="Interfaz Histogram acabada" />
+    <MESSAGE value="Clase WeightHistogram acabada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase WeightHistogram acabada" />
   </component>
 </project>
